@@ -11,7 +11,7 @@
 
 
 Project Name : ZUSYCO - MD
-Creator : @darkmakerofc , @mr-nima-x 
+Creator : @darkmakerofc , @mr-rasindu-x 
 
 */
 
@@ -48,11 +48,11 @@ module.exports = {
         NOT_WORKING : false,
   },
   READ : {
-     ALL_MESSAGES : true,
+     ALL_MESSAGES : false,
      ONLY_COMMANDS : false,
      STATUS : false,
   },
-  BOT_OFFLINE : false,
+  BOT_OFFLINE : true,
   INBOX_BLOCK : false,
   AUTO_REACT : false,
   OWNER_REACT : '🤵‍♂️',
